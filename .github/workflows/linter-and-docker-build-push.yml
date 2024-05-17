@@ -44,4 +44,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: zahiriandii/devops-lab8:v1
+          tags: zahiriandii/devops-lab8:v2
